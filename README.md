@@ -19,6 +19,6 @@ This respoitory contains [Helm](https://helm.sh) charts for the following projec
 
 
 ```
-helm repo add flitz https://flitz-be.github.io/helm-charts/
-helm install lnd flitz/lnd
+helm repo add getalby https://getalby.github.io/helm-charts/
+helm install lnd getalby/lnd
 ```
