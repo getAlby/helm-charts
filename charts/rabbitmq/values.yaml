@@ -29,8 +29,8 @@ global:
 ## @param image.debug Set to true if you would like to see extra information on logs
 ##
 image:
-  registry: docker.io
-  repository: registry.getalbypro.com/bitnamilegacy/rabbitmq
+  registry: registry.getalbypro.com
+  repository: bitnamilegacy/rabbitmq
   tag: 3.11.4-debian-11-r0
   digest: ""
   ## set to true if you would like to see extra information on logs
